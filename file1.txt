@@ -3,12 +3,14 @@ Welcome to Git session.
 
 Hello World .......................
 
-Change: to fix bug1......
-  change : by teammate for WI2 on master.
+Change 1: to fix bug1......
+  change 2 : by teammate for WI2 on master.
 
-Change to fix bug1...
+Change 3 to fix bug1...
 
-Change to fix bug2..
+Change 4 to fix bug2..
 
-change : by teammate for WI3 to check rebase.
+change 5: by teammate for WI3 to check rebase.
+
+change 6 : for CR2 of remote master by teammate with conflict rebase.
 
