@@ -3,4 +3,7 @@ Welcome to Git session.
 
 Hello World .......................
 
-Change to fix bug1.
+Change to fix bug1...
+
+Change to fix bug2.
+
