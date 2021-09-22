@@ -3,5 +3,11 @@ Welcome to Git session.
 
 Hello World .......................
 
-Change: to fix bug1.
+Change: to fix bug1......
   change : by teammate for WI2 on master.
+
+Change to fix bug1...
+
+Change to fix bug2..
+
+
